@@ -12,3 +12,5 @@ This is some stuff.
 
 .. image:: grasshopper.jpg
    :alt: grasshopper
+
+This is additional content to verify that our GitHub action is working.
