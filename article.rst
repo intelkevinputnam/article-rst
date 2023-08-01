@@ -3,6 +3,8 @@ This is an RST File
 
 This is some stuff.
 
+These are some important edits for this article.
+
 .. list-table::
 
    * - item 1
